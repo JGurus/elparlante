@@ -1,0 +1,65 @@
+body {
+  height: 100vh;
+  background: rgb(0, 0, 0);
+  background: linear-gradient(
+    180deg,
+    rgba(0, 0, 0, 1) -150%,
+    rgba(127, 5, 5, 1) 100%
+  );
+}
+
+.landing-page img[src$=".svg"] {
+  height: 32px;
+}
+
+.landing-page {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+}
+
+.landing-page > div:first-child {
+  display: inline-flex;
+  flex-direction: column;
+  margin: 4rem;
+  align-items: center;
+}
+
+.landing-page h2 {
+  color: white;
+  font-size: 4rem;
+  text-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
+}
+
+.landing-page .buttom {
+  background-color: #2eb85c;
+  display: flex;
+  height: 4rem;
+  width: 13rem;
+  border-radius: 50px;
+  align-items: center;
+  justify-content: space-evenly;
+  box-shadow: 0 8px 20px -4px #0a2814;
+  cursor: pointer;
+}
+
+.landing-page .buttom > div {
+  width: 32px;
+  height: 32px;
+  background-color: white;
+  border-radius: 50%;
+  display: flex;
+}
+
+.ceci {
+  height: 100vh;
+  width: 100vw;
+  background-size: auto;
+  background-repeat: no-repeat;
+  background-position: -20vw 10vh;
+  transform: scaleX(-1);
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  z-index: -1;
+}
