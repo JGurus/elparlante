@@ -12,9 +12,9 @@ const App = () =>
     {/* <MenuTop />
     <MenuBot /> */}
     <Switch>
-      <Route path="/" exact> <Home /> </Route>
-      <Route path="/notas"> <Notas /> </Route>
-      <Route path="/podcast"> <Podcast /> </Route>
+      <Route path="/elparlante/" exact> <Home /> </Route>
+      <Route path="/elparlante/notas"> <Notas /> </Route>
+      <Route path="/elparlante/podcast"> <Podcast /> </Route>
     </Switch>
   </Router>    
 )

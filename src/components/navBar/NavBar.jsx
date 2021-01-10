@@ -6,20 +6,20 @@ const NavBar = () => {
   return (
     <header>
       <nav className="navbar">
-        <NavLink to="/" exact>
+        <NavLink to="/elparlante/" exact>
           <h1>El Parlante</h1>
         </NavLink>
         <ul className="lowplus">
           <li>
-            <NavLink to="/" exact>
+            <NavLink to="/elparlante/" exact>
               INICIO
             </NavLink>
           </li>
           <li>
-            <NavLink to="/notas">NOTAS</NavLink>
+            <NavLink to="/elparlante/notas">NOTAS</NavLink>
           </li>
           <li>
-            <NavLink to="/podcast">PODCAST</NavLink>
+            <NavLink to="/elparlante/podcast">PODCAST</NavLink>
           </li>
         </ul>
       </nav>
