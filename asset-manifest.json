@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/elparlante/static/css/main.e076eb76.chunk.css",
-    "main.js": "/elparlante/static/js/main.4320a07f.chunk.js",
-    "main.js.map": "/elparlante/static/js/main.4320a07f.chunk.js.map",
+    "main.js": "/elparlante/static/js/main.cfe6481c.chunk.js",
+    "main.js.map": "/elparlante/static/js/main.cfe6481c.chunk.js.map",
     "runtime-main.js": "/elparlante/static/js/runtime-main.845c9593.js",
     "runtime-main.js.map": "/elparlante/static/js/runtime-main.845c9593.js.map",
     "static/css/2.679831fc.chunk.css": "/elparlante/static/css/2.679831fc.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.679831fc.chunk.css",
     "static/js/2.bdc2c8a8.chunk.js",
     "static/css/main.e076eb76.chunk.css",
-    "static/js/main.4320a07f.chunk.js"
+    "static/js/main.cfe6481c.chunk.js"
   ]
 }
