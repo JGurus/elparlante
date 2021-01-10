@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/elparlante/static/css/main.decc9bd0.chunk.css",
-    "main.js": "/elparlante/static/js/main.ba2e20be.chunk.js",
-    "main.js.map": "/elparlante/static/js/main.ba2e20be.chunk.js.map",
+    "main.css": "/elparlante/static/css/main.50c3cb9e.chunk.css",
+    "main.js": "/elparlante/static/js/main.3f7106e8.chunk.js",
+    "main.js.map": "/elparlante/static/js/main.3f7106e8.chunk.js.map",
     "runtime-main.js": "/elparlante/static/js/runtime-main.845c9593.js",
     "runtime-main.js.map": "/elparlante/static/js/runtime-main.845c9593.js.map",
     "static/css/2.679831fc.chunk.css": "/elparlante/static/css/2.679831fc.chunk.css",
@@ -10,17 +10,18 @@
     "static/js/2.1bd384ae.chunk.js.map": "/elparlante/static/js/2.1bd384ae.chunk.js.map",
     "index.html": "/elparlante/index.html",
     "static/css/2.679831fc.chunk.css.map": "/elparlante/static/css/2.679831fc.chunk.css.map",
-    "static/css/main.decc9bd0.chunk.css.map": "/elparlante/static/css/main.decc9bd0.chunk.css.map",
+    "static/css/main.50c3cb9e.chunk.css.map": "/elparlante/static/css/main.50c3cb9e.chunk.css.map",
     "static/js/2.1bd384ae.chunk.js.LICENSE.txt": "/elparlante/static/js/2.1bd384ae.chunk.js.LICENSE.txt",
     "static/media/index.css": "/elparlante/static/media/GoboldRegular.80684b39.otf",
-    "static/media/ceci.a3d8703a.png": "/elparlante/static/media/ceci.a3d8703a.png",
-    "static/media/spotify-seeklogo.1028c76b.svg": "/elparlante/static/media/spotify-seeklogo.1028c76b.svg"
+    "static/media/speaker.9965f1b0.png": "/elparlante/static/media/speaker.9965f1b0.png",
+    "static/media/spotify-seeklogo.1028c76b.svg": "/elparlante/static/media/spotify-seeklogo.1028c76b.svg",
+    "static/media/vynil-2-web.d3045aa5.png": "/elparlante/static/media/vynil-2-web.d3045aa5.png"
   },
   "entrypoints": [
     "static/js/runtime-main.845c9593.js",
     "static/css/2.679831fc.chunk.css",
     "static/js/2.1bd384ae.chunk.js",
-    "static/css/main.decc9bd0.chunk.css",
-    "static/js/main.ba2e20be.chunk.js"
+    "static/css/main.50c3cb9e.chunk.css",
+    "static/js/main.3f7106e8.chunk.js"
   ]
 }
