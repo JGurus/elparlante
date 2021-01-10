@@ -4,7 +4,7 @@ import "./MenuTop.css";
 
 const MenuTop = () => {
   return (
-    <header>
+    <header className="menutop">
       <nav>
         <h1>El Parlante</h1>
         <Buscar />

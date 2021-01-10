@@ -9,7 +9,7 @@ const NavBar = () => {
         <NavLink to="/elparlante/" exact>
           <h1>El Parlante</h1>
         </NavLink>
-        <ul className="lowplus">
+        {window.innerWidth < 420 ? <> </> : <ul className="lowplus">
           <li>
             <NavLink to="/elparlante/" exact>
               INICIO
@@ -21,7 +21,7 @@ const NavBar = () => {
           <li>
             <NavLink to="/elparlante/podcast">PODCAST</NavLink>
           </li>
-        </ul>
+        </ul>}
       </nav>
     </header>
   );

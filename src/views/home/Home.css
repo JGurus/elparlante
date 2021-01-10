@@ -63,3 +63,22 @@ body {
   right: 0;
   z-index: -1;
 }
+
+@media screen and (max-width: 420px){
+  .landing-page{
+    justify-content: center;
+  }
+
+  .landing-page > div:first-child{
+    margin: 0;
+  }
+  
+  .landing-page h2{
+    text-align: center;
+  }
+
+  .ceci{
+    background-size: cover;
+    background-position: center;
+  }
+}
