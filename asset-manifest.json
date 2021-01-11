@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/elparlante/static/css/main.50c3cb9e.chunk.css",
+    "main.css": "/elparlante/static/css/main.c418799d.chunk.css",
     "main.js": "/elparlante/static/js/main.3f7106e8.chunk.js",
     "main.js.map": "/elparlante/static/js/main.3f7106e8.chunk.js.map",
     "runtime-main.js": "/elparlante/static/js/runtime-main.845c9593.js",
@@ -10,7 +10,7 @@
     "static/js/2.1bd384ae.chunk.js.map": "/elparlante/static/js/2.1bd384ae.chunk.js.map",
     "index.html": "/elparlante/index.html",
     "static/css/2.679831fc.chunk.css.map": "/elparlante/static/css/2.679831fc.chunk.css.map",
-    "static/css/main.50c3cb9e.chunk.css.map": "/elparlante/static/css/main.50c3cb9e.chunk.css.map",
+    "static/css/main.c418799d.chunk.css.map": "/elparlante/static/css/main.c418799d.chunk.css.map",
     "static/js/2.1bd384ae.chunk.js.LICENSE.txt": "/elparlante/static/js/2.1bd384ae.chunk.js.LICENSE.txt",
     "static/media/index.css": "/elparlante/static/media/GoboldRegular.80684b39.otf",
     "static/media/speaker.9965f1b0.png": "/elparlante/static/media/speaker.9965f1b0.png",
@@ -21,7 +21,7 @@
     "static/js/runtime-main.845c9593.js",
     "static/css/2.679831fc.chunk.css",
     "static/js/2.1bd384ae.chunk.js",
-    "static/css/main.50c3cb9e.chunk.css",
+    "static/css/main.c418799d.chunk.css",
     "static/js/main.3f7106e8.chunk.js"
   ]
 }
